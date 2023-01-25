@@ -1,4 +1,4 @@
-# Alura's course: Data Science - Análise de séries Temporais
+# Alura's course: Data Science - Análise de Séries Temporais
 
 ## Course content
 
